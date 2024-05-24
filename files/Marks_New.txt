@@ -1,0 +1,6 @@
+This is my text file.
+Here are my Marks.
+Maths 100
+English 95
+Java 85
+UNIX 90
